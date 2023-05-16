@@ -1,3 +1,7 @@
+# Project-Insights
+
+A comprehensive repository showcasing our company's latest developments and innovative projects. Explore our advancements through product descriptions, captivating screenshots, and engaging demonstrations. Stay informed about ongoing development efforts and witness the evolution of our projects as we continuously strive to improve and innovate.
+
 
 # Galileo Protocol
 
@@ -16,11 +20,6 @@ In the coming decade, most of the physical world will get tokenised. Tokenisatio
 Our dream is to level the economic playing field through the tokenisation and fractionalisation of assets. This is only the beginning. The perception of value and the distribution thereof will evolve dramatically. Galileo leads the way.
 
 To get started with Galileo Protocol, check out our https://www.galileoprotocol.io/
-
-
-# Project-Insights
-
-A comprehensive repository showcasing our company's latest developments and innovative projects. Explore our advancements through product descriptions, captivating screenshots, and engaging demonstrations. Stay informed about ongoing development efforts and witness the evolution of our projects as we continuously strive to improve and innovate.
  
  
 ## Social Media
